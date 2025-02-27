@@ -10,7 +10,7 @@ The features calculation is in [features.py](features.py).
 
 ## Segmentation
 
-We segment the AIS data according to the following process.
+We segment the AIS data according to the following process. The code is in [seg.py](seg.py).
 
 ![](seg.jpg)
 
